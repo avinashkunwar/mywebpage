@@ -1,0 +1,49 @@
+About: 
+
+Not just any code. I believe in writing code with both structure and readability, and as a developer, enjoy optimising and improving the quality of the code 
+that I write. I have good knowledge in front-end, back-end, as well as mobile application development, and plan to venture into the field of blockchain or
+artificial intelligence. A technology enthusiast, I am hopeful and passionate about the potential of technology in changing the world. From simple websites
+to complex systems, I thoroughly enjoy the process of building software, solving complex problems, and working with others to produce amazing end-products.
+
+NJC: 
+
+I graduated from National Junior College in 2017 as a GCE 'A' Level Graduate from the Integrated Programme. My time here taught me to be a critical thinker and 
+nurtured my penchant for problem solving. It was also NJC that gave me my first leadership opportunity as the president of the NJC Symphonic Band, where I had the 
+experience of being part of a great team, and leading a great community.
+
+Boogle:
+
+My time at this vibrant startup has been nothing less than fruitful. It was here where I started designing and building sophisticated software from the ground up, and 
+learnt much of the coding best practices and standards which I still practice heavily today. During the months I was here, I was heavily involved in the front-end
+development, while occasionally finding myself immersed in the back-end and mobile development as well. I also had the opportunity to be part of an amazing product team,
+which allowed me, under the guidance of brilliant mentors, to carry out the process of bringing a product through its development cycle, from the ideation, 
+to the designing, coding, testing, and eventually, the deployment of the product.
+
+Personal Website:
+
+This website is the very first personal project I designed, built, and deployed on my own, and is also my first take on a personal website. Not only did 
+building this website allow me to put my development skills to the test, it was also a great sandbox for me to explore and experiment with new development and design techniques
+such as implementing a dark theme, using React hooks, and being creative with scroll effects.
+
+Yale-NUS: 
+
+I am a current freshman at Yale-NUS College in the class of 2024. While I cannot be more excited, what the future holds for me here remains to be seen.
+
+What I can do:
+
+I have been coding at a professional level for a year and have experience in an array of modern web technologies such as React, TypeScript, React Native,
+and Django REST Framework. I am also adept in using development tools such as git and AWS, and design / prototyping tools such as Invision Studio and Affinity Designer.
+On the sideline, I enjoy building web applications and tinkering with the Arduino.
+
+What I can do (note):
+
+Note: Skills are portrayed relative to each other and not on an absolute level (learning never stops!)
+
+Where I've Been:
+
+Travelling greatly excites me. I love experiencing new cultures, immersing myself in breathtaking sceneries, as well as eating amazing food. I hope to one day 
+fill this map with even more locations that I've visited.
+
+Where I've Been (Caption):
+
+Here are some snapshots I took from the places I've been recently.
